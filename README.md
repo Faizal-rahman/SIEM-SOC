@@ -97,6 +97,6 @@ You can replicate this SOC stack on your system with the following steps:
 
 ## 📄 **License**
 
-This project is licensed under the **MIT License**.
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
+This project is licensed under the MIT License.
 ---
