@@ -70,8 +70,8 @@ You can replicate this SOC stack on your system with the following steps:
 ## 📊 **Screenshots**
 
 <!-- Insert image links or local image references -->
-- 🧠 **IOC Detection**
 - 🔐 **User Access Sankey Flow**
+![Sankey Diagram](Screenshots/image.png)
 - 📁 **DFIR IRIS Case Management View**
 
 ---
