@@ -99,4 +99,23 @@ You can replicate this SOC stack on your system with the following steps:
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
 This project is licensed under the MIT License.
+
+A short and simple permissive license with conditions only requiring preservation of copyright and license notices.
+Licensed works, modifications, and larger works may be distributed under different terms and without source code.
+
+**Permissions**
+✔ Commercial use  
+✔ Modification  
+✔ Distribution  
+✔ Private use  
+
+**Limitations**
+✖ Liability  
+✖ Warranty  
+
+**Conditions**
+📜 License and copyright notice  
+
+> This is not legal advice. [Learn more about repository licenses](https://choosealicense.com/licenses/mit/)
+
 ---
