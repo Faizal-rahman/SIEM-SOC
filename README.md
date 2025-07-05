@@ -6,7 +6,8 @@ This project demonstrates a fully integrated open-source **Security Operations C
 
 ## 📌 **Architecture Overview**
 <!-- Replace with your architecture diagram image -->
-*(Add a network diagram showing how all components connect)*
+![Architecture Diagram](Screenshots/ArchitectureDiagram.png)
+
 
 ---
 
