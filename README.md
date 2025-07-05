@@ -100,8 +100,3 @@ You can replicate this SOC stack on your system with the following steps:
 This project is licensed under the **MIT License**.
 
 ---
-
-## ✍️ **Author**
-
-**Faizal** – Cybersecurity Enthusiast | Threat Hunter | Blue Team Engineer  
-📫 [**LinkedIn**](https://www.linkedin.com/in/faizal-rahman) | [**Blog/Portfolio**](#) *(Add your link here)*
