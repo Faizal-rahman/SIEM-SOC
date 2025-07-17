@@ -73,7 +73,8 @@ You can replicate this SOC stack on your system with the following steps:
 - 🔐 **User Access Sankey Flow**
 ![Sankey Diagram](Screenshots/image.png)
 - 📁 **DFIR IRIS Case Management View**
-
+![timeline](Screenshots/timeline.png)
+![assets](Screenshots/assets.png)
 ---
 
 ## 🔍 **Use Cases**
